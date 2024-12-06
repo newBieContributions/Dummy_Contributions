@@ -43,7 +43,7 @@ Open source contributions can be daunting, especially for beginners. Our mission
 - [How to Fork a Repository](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
 - [About Pull Requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
 
-## Community Join our community discussions in the [Discussions tab]([link-to-discussions](https://github.com/newBieContributions/Dummy_Contributions/discussions)) and connect with fellow contributors. Share your experiences, ask questions, and get feedback from others. 
+## Community Join our community discussions in the [Discussions tab](https://github.com/newBieContributions/Dummy_Contributions/discussions) and connect with fellow contributors. Share your experiences, ask questions, and get feedback from others. 
 
 ## Contact 
 For any questions or support, please reach out to newbiecontributions@gmail.com.
