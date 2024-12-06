@@ -19,7 +19,8 @@ Open source contributions can be daunting, especially for beginners. Our mission
 6. **Commit Changes**: ```bash git add . git commit -m "Brief description of your changes" ```
 7. **Push Changes**: ```bash git push origin your-branch-name ```
 8. **Create a Pull Request**: Navigate to your forked repository on GitHub and click the 'New pull request' button.
-   
+
+<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/3ftzSWXtNfzyn6CpHZcwZp"></iframe>
 
 
 ## Contribution Guidelines
