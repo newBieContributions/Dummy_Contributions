@@ -23,7 +23,7 @@ Open source contributions can be daunting, especially for beginners. Our mission
 
 # Visualization
 
-**Start your First PR**
+[**Start your First PR**](https://whimsical.com/vlow-3ftzSWXtNfzyn6CpHZcwZp@2nr1gScbNHAs6x1qZTZPfZUFUoKWCM31bEHbWfWxHeJR9P6R3q)
 
 ![Flow Chart](https://github.com/user-attachments/assets/0b4c6cd4-514f-40d3-892e-45943252846b)
 
